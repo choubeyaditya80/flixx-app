@@ -11,3 +11,5 @@ This includes the most populr movies and TV shows with detail pages, a search bo
 Just clone or download and then register for a free API key at https://www.themoviedb.org/settings/api
 
 Once you get your key, just add it to the `api.apiKey` value in the global state at the top.
+
+Demo : https://flixx-app-roan.vercel.app/
